@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Mohd%20Jawwad&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Backend%20Architect&descFontSize=22&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Mohd%20Jawwad&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%26%20FastAPI%20%7C%20Exploring%20GenAI&descFontSize=22&descAlignY=62&descAlign=50" width="100%" />
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/Jawad000000">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&random=false&width=650&lines=Building+Autonomous+Agents+with+LangGraph;Crafting+Production+RAG+with+Qdrant+%26+MiniLM;Architecting+Low-Latency+APIs+with+FastAPI;Designing+Systems+from+Scratch+(Rate+Limiters%2C+ATS)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&random=false&width=650&lines=Building+Backend+APIs+with+Python+%26+FastAPI;Exploring+Generative+AI+%26+RAG;Building+Systems+from+Scratch+(Rate+Limiters%2C+APIs);Experimenting+with+LLMs%2C+Tools+%26+Workflows" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -29,29 +29,12 @@
 
 ### 🚀 About Me
 
-Hey there! 👋 I am **Mohd Jawwad**, an **AI Engineer & Backend Developer** passionate about building autonomous LLM agents, retrieval-augmented generation (RAG) architectures, and high-performance backend systems.
+Hey there! 👋 I am **Mohd Jawwad**, a developer focused on **Python, FastAPI, and backend systems**, while actively learning and experimenting with **Generative AI**.
 
-- 🧠 **AI & LLM Specialization:** Designing stateful agent graphs (**LangGraph**), custom **ReAct** execution loops from scratch, dense vector search pipelines (**Qdrant**, **Sentence-Transformers**), and automated **RAG evaluation** metrics.
-- ⚡ **Backend & Systems:** Engineering concurrency-safe microservices with **FastAPI**, token bucket rate-limiting algorithms, asynchronous task queues, and clean domain-driven APIs.
-- 🛠️ **Full-Stack Exposure:** Developing real-time web applications using **Next.js 16**, **TypeScript**, **Supabase**, and **Tailwind CSS**.
-- 🔭 **Currently Building:** Multi-agent workflows for automated scheduling and enterprise supply-chain intelligence.
-
----
-
-### 🧠 AI & LLM Engineering Focus
-
-```
-  ┌────────────────────────────────────────────────────────────────────────┐
-  │                               AI STACK                                 │
-  ├────────────────────────────────────────────────────────────────────────┤
-  │  Multi-Agent Graphs  │  LangGraph, StateGraph, MemorySaver, ReAct      │
-  │  RAG & Vector DB     │  Qdrant, Cosine Similarity, Chunking, RAG-Eval  │
-  │  Models & Inference  │  Groq, OpenAI, Google Gemini, Qwen, LLaMA       │
-  │  Embeddings & Search │  Sentence-Transformers (MiniLM), Hybrid Search  │
-  │  Structured Outputs  │  Pydantic v2, Strict JSON Schemas, Function Call│
-  │  Tool Orchestration  │  Tavily Search, Custom Calculator, Dynamic APIs │
-  └────────────────────────────────────────────────────────────────────────┘
-```
+- ⚡ **Backend & Systems:** Building clean REST APIs with **Python** & **FastAPI**, creating low-level utilities from scratch (like custom **Token Bucket** rate limiters), and writing modular backend logic.
+- 🤖 **GenAI (Learning & Exploring):** Getting hands-on with LLM APIs (**Groq**, **Google Gemini**), structured outputs with **Pydantic**, retrieval-augmented generation (**RAG**) with vector databases (**Qdrant**), and experimenting with agent workflows.
+- 🌐 **Full-Stack Projects:** Developing modern web apps with **Next.js**, **TypeScript**, **Supabase**, and **Tailwind CSS**.
+- 🛠️ **Engineering Mindset:** I love understanding how things work under the hood by building them from first principles.
 
 ---
 
@@ -61,10 +44,10 @@ Hey there! 👋 I am **Mohd Jawwad**, an **AI Engineer & Backend Developer** pas
 
 | Domain | Technologies |
 | :--- | :--- |
-| **AI / Machine Learning** | ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F05A28?style=flat-square&logo=groq&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-008080?style=flat-square) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic%20v2-E92063?style=flat-square&logo=pydantic&logoColor=white) |
-| **Backend & Systems** | ![Python](https://img.shields.io/badge/Python%203.11+-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST-005571?style=flat-square) |
+| **Languages & Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **GenAI (Exploring & Building)** | ![Groq](https://img.shields.io/badge/Groq-F05A28?style=flat-square&logo=groq&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-008080?style=flat-square) |
 | **Databases & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Developer Tools** | ![uv](https://img.shields.io/badge/uv%20package%20manager-DE5FE9?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Developer Tools** | ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 </div>
 
@@ -75,57 +58,25 @@ Hey there! 👋 I am **Mohd Jawwad**, an **AI Engineer & Backend Developer** pas
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Jawad000000/aieng">Autonomous Agent & RAG Ecosystem</a></h3>
-      <p>Comprehensive AI engineering suite featuring:</p>
-      <ul>
-        <li><b>LangGraph State Machine Agent:</b> Multi-step order verification, cooking states, and dynamic fallback loops with <code>MemorySaver</code>.</li>
-        <li><b>Autonomous Tool-Calling Agent:</b> Multi-tool reasoning using Tavily web search, Qdrant vector retrieval, and custom execution loops.</li>
-        <li><b>Vector RAG Engine:</b> Dense embedding pipeline with Sentence-Transformers, Qdrant collection indexing, and automated evaluation metrics (<code>rag_eval.py</code>).</li>
-        <li><b>Scratch ReAct Loop:</b> Custom thought-action-observation loop parsing model reasoning without heavy frameworks.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square" />
-        <img src="https://img.shields.io/badge/Groq-F05A28?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/Jawad000000/aieng">ATS Resume Intelligence Matcher</a></h3>
-      <p>Automated resume parsing and semantic job-fit evaluator:</p>
-      <ul>
-        <li>Extracts structured resume entities (experience, skills, certifications) from PDF/DOCX using Pydantic schemas.</li>
-        <li>Evaluates qualification match ratios against complex job descriptions using high-throughput open LLMs.</li>
-        <li>Computes automated match scoring and constructive candidate feedback.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square" />
-        <img src="https://img.shields.io/badge/Qwen_3.8_27B-10B981?style=flat-square" />
-        <img src="https://img.shields.io/badge/pypdf-3178C6?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/Jawad000000/token-bucket">Token Bucket Rate Limiter</a></h3>
-      <p>High-concurrency token bucket rate limiting engine written from scratch:</p>
+      <p>A FastAPI project implementing token bucket rate limiting from scratch:</p>
       <ul>
-        <li>Prevents API denial of service and enforces client quotas via custom token buckets.</li>
-        <li>Configurable burst capacity, refill intervals, and HTTP 429 backoff headers.</li>
-        <li>Integrated as FastAPI middleware with isolated client state tracking.</li>
+        <li>Prevents API overload and manages client burst traffic using dedicated token buckets.</li>
+        <li>Refills tokens over time with configurable refill rates and returns HTTP 429 when depleted.</li>
+        <li>Built to understand backend request handling and middleware interceptors.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/Rate_Limiting-6366F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Rate_Limiter-6366F1?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>📦 <a href="https://github.com/Jawad000000/KiranaPulse">KiranaPulse</a></h3>
       <p>B2B supply chain simulation and real-time inventory management platform:</p>
       <ul>
-        <li>Engineered with Next.js 16 and Supabase for reactive real-time database state.</li>
-        <li>Dynamic analytics dashboard with modern Tailwind CSS v4 design.</li>
+        <li>Built with Next.js 16 and Supabase for reactive real-time database state.</li>
+        <li>Clean analytics dashboard designed with Tailwind CSS v4.</li>
         <li>Simulates store-to-distributor ordering pipelines and fulfillment logistics.</li>
       </ul>
       <p>
@@ -137,28 +88,59 @@ Hey there! 👋 I am **Mohd Jawwad**, an **AI Engineer & Backend Developer** pas
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎥 <a href="https://github.com/Jawad000000/youtube-rag-assistant">YouTube RAG Assistant</a></h3>
-      <p>Conversational semantic question-answering over video transcripts:</p>
+      <h3>🤖 <a href="https://github.com/Jawad000000/aieng">GenAI Engineering Lab</a></h3>
+      <p>Hands-on experiments learning GenAI, LLMs, and RAG:</p>
       <ul>
-        <li>Indexes YouTube video transcripts into vector space with chunking and metadata tags.</li>
-        <li>Retrieves high-relevance timestamps and answers complex queries with context grounding.</li>
+        <li><b>RAG Pipelines:</b> Chunking text, computing vector embeddings (Sentence-Transformers), and querying Qdrant vector database.</li>
+        <li><b>LLM Tool Use & Workflows:</b> Exploring stateful workflows, tool-calling with web search, and testing multi-step interactions.</li>
+        <li><b>Prompt & Output Parsing:</b> Testing JSON mode, system prompts, and strict schema validation with Pydantic.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/RAG-0284C7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vector_Search-4F46E5?style=flat-square" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Groq-F05A28?style=flat-square" />
+        <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/Jawad000000/token-shield">Token Shield & Task Manager APIs</a></h3>
-      <p>Enterprise backend utilities for secure microservices:</p>
+      <h3>📄 <a href="https://github.com/Jawad000000/aieng">ATS Resume Matcher</a></h3>
+      <p>Resume parsing and job description matching experiment:</p>
       <ul>
-        <li>Token shield authentication & quota management layer.</li>
-        <li>Asynchronous background task queues for non-blocking processing.</li>
+        <li>Extracts structured resume data (experience, skills, education) from PDF documents.</li>
+        <li>Uses LLMs with Pydantic models to guarantee valid structured JSON output.</li>
+        <li>Compares candidate qualifications against job descriptions to compute match details.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" />
+        <img src="https://img.shields.io/badge/Groq-F05A28?style=flat-square" />
+        <img src="https://img.shields.io/badge/pypdf-3178C6?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎥 <a href="https://github.com/Jawad000000/youtube-rag-assistant">YouTube RAG Assistant</a></h3>
+      <p>Semantic search and contextual question-answering over video transcripts:</p>
+      <ul>
+        <li>Indexes video transcript segments into vector space for quick retrieval.</li>
+        <li>Retrieves relevant sections to answer user queries with grounded context.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/RAG-0284C7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vector_Search-4F46E5?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Jawad000000/token-shield">Token Shield & Task APIs</a></h3>
+      <p>Backend utilities and API microservices:</p>
+      <ul>
+        <li>Token rate limiter / guard layer for protecting API endpoints.</li>
+        <li>Task management APIs and queue processing experiments.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square" />
       </p>
     </td>

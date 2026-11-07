@@ -8,30 +8,26 @@
     <img src="https://media.giphy.com/media/uS07171xX98Jv0K3x6/giphy.gif" width="480px" style="border-radius: 12px; border: 2px solid #e50914;" alt="Tokyo Ghoul Kaneki" />
   </p>
 
-  <!-- Tokyo Ghoul HUD Badges -->
+  <!-- Professional Specialization Badges + Souls Consumed -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Ghoul_Rate-SS~_Class-E50914?style=for-the-badge&logoColor=white" alt="Ghoul Rate" />
-    <img src="https://img.shields.io/badge/Kagune-Rinkaku_%7C_Python_%26_FastAPI-161616?style=for-the-badge&logo=python&logoColor=E50914" alt="Kagune" />
+    <img src="https://img.shields.io/badge/Specialization-Python_%26_FastAPI-E50914?style=for-the-badge&logo=python&logoColor=white" alt="Specialization" />
+    <img src="https://img.shields.io/badge/Focus-Distributed_Systems_%26_GenAI-161616?style=for-the-badge&logo=fastapi&logoColor=E50914" alt="Focus" />
     <a href="https://github.com/Jawad000000">
       <img src="https://komarev.com/ghpvc/?username=Jawad000000&color=e50914&style=for-the-badge&label=SOULS+CONSUMED" alt="Souls Consumed" />
     </a>
   </p>
 
-  <!-- Social & Contact Badges -->
+  <!-- Connect & Summon Sign -->
   <p align="center">
     <a href="mailto:mohdjawwad73@gmail.com">
-      <img src="https://img.shields.io/badge/Summon-mohdjawwad73%40gmail.com-E50914?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Summon_Sign-mohdjawwad73%40gmail.com-E50914?style=for-the-badge&logo=gmail&logoColor=white" alt="Summon Sign Email" />
     </a>
     <a href="https://github.com/Jawad000000">
-      <img src="https://img.shields.io/badge/Archive-Jawad000000-161616?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-Jawad000000-161616?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/Network-Mohd_Jawwad-161616?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Mohd_Jawwad-161616?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-  </p>
-
-  <p align="center">
-    <i>"What's 1000 minus 7? Keep coding."</i> 🩸
   </p>
 
 </div>
@@ -46,7 +42,7 @@ Hey there! 👋 I am **Mohd Jawwad**, a backend and systems engineer specializin
 - 🩸 **Generative AI & RAG:** Building semantic search engines with **Qdrant** vector databases, dense embeddings using **Sentence-Transformers**, multi-tool LLM workflows (**Groq**, **Google Gemini**), and strict schema validation with **Pydantic v2**.
 - 🧠 **Engineering Philosophy:** Building systems from first principles—optimizing worker pools, bypassing the Python GIL via multiprocessing, designing exponential backoffs, and writing high-efficiency database queries.
 
-> *"It's not that I'm wrong, it's that the world is wrong."*
+> *"Always building, always learning."*
 
 ---
 
